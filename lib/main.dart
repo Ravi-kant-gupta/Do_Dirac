@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
 
       title: 'DO DIRAC',
+
       theme: ThemeData(),
       home: const SplashScreenPage(),
     );
